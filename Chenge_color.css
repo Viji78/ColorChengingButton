@@ -1,0 +1,23 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+div {
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+
+}
+
+.bg-color1 {
+    background-color: green;
+}
+
+.bg-color2 {
+    background-color: blue;
+}
